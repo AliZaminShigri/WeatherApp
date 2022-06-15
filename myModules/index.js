@@ -1,7 +1,7 @@
 //const oper=require("./functions");
 //console.log(oper.addFun(2,7));
 //console.log(oper.subFun(12,7));
-
+// Zamin the king is here
 //const {addFun,property, subFun}=require("./functions");
 //console.log(addFun(2,7));
 //console.log(subFun(12,7));
